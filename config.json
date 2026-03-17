@@ -3,7 +3,7 @@
         "OEBB": "obb",
         "WESTlan": "westbahn"
     },
-    "hotspot_ssids": [],
+    "hotspot_ssids": ["Philipp's Galaxy A54 5G"],
     "interval_seconds": 10,
     "ping_host": "1.1.1.1",
     "ping_timeout_ms": 3000,
