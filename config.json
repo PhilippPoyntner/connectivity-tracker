@@ -1,0 +1,15 @@
+{
+    "known_networks": {
+        "OEBB": "obb",
+        "WESTlan": "westbahn"
+    },
+    "hotspot_ssids": [],
+    "interval_seconds": 10,
+    "ping_host": "1.1.1.1",
+    "ping_timeout_ms": 3000,
+    "http_test_url": "http://www.gstatic.com/generate_204",
+    "http_timeout_seconds": 3,
+    "download_test_url": "https://speed.cloudflare.com/__down?bytes=102400",
+    "download_timeout_seconds": 5,
+    "download_size_bytes": 102400
+}
